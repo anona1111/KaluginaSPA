@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/spa/static/css/main.975897d1.css",
-    "main.js": "/spa/static/js/main.ab7d78ea.js",
-    "static/media/povar2.png": "/spa/static/media/povar2.71be9057587ef951fb08.png",
-    "static/media/povar.jpg": "/spa/static/media/povar.00b747b597ab7ef27a16.jpg",
-    "index.html": "/spa/index.html",
-    "main.975897d1.css.map": "/spa/static/css/main.975897d1.css.map",
-    "main.ab7d78ea.js.map": "/spa/static/js/main.ab7d78ea.js.map"
+    "main.css": "/KaluginaSPA/static/css/main.975897d1.css",
+    "main.js": "/KaluginaSPA/static/js/main.e1cbdb07.js",
+    "static/media/povar2.png": "/KaluginaSPA/static/media/povar2.71be9057587ef951fb08.png",
+    "static/media/povar.jpg": "/KaluginaSPA/static/media/povar.00b747b597ab7ef27a16.jpg",
+    "index.html": "/KaluginaSPA/index.html",
+    "main.975897d1.css.map": "/KaluginaSPA/static/css/main.975897d1.css.map",
+    "main.e1cbdb07.js.map": "/KaluginaSPA/static/js/main.e1cbdb07.js.map"
   },
   "entrypoints": [
     "static/css/main.975897d1.css",
-    "static/js/main.ab7d78ea.js"
+    "static/js/main.e1cbdb07.js"
   ]
 }
