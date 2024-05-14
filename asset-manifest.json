@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/KaluginaSPA/static/css/main.975897d1.css",
-    "main.js": "/KaluginaSPA/static/js/main.33444bb2.js",
+    "main.js": "/KaluginaSPA/static/js/main.0bf000b4.js",
     "index.html": "/KaluginaSPA/index.html",
     "main.975897d1.css.map": "/KaluginaSPA/static/css/main.975897d1.css.map",
-    "main.33444bb2.js.map": "/KaluginaSPA/static/js/main.33444bb2.js.map"
+    "main.0bf000b4.js.map": "/KaluginaSPA/static/js/main.0bf000b4.js.map"
   },
   "entrypoints": [
     "static/css/main.975897d1.css",
-    "static/js/main.33444bb2.js"
+    "static/js/main.0bf000b4.js"
   ]
 }
